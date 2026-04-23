@@ -26,12 +26,11 @@ La directora comercial necesitaba para el viernes:
 - Análisis de contratos inactivos y revenue potencial perdido
 
 **Excel avanzado**
-- BUSCARV entre hojas para cruzar datos de hospitales
 - SUMAR.SI y CONTAR.SI para resúmenes ejecutivos dinámicos
 - Fórmula SI anidada para clasificar representantes (Top/Mid/Low)
 - Tabla dinámica con campo calculado de margen %
 - Formato condicional con fórmula para resaltar filas completas
-- Gráfica dinámica conectada a tabla dinámica
+
 
 **Dashboard en Tableau Public**
 - 4 visualizaciones interactivas conectadas entre sí
